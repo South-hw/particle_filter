@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="nipa_yolov3" exclude=".svn;.cvs;.idea;.DS_Store;.git;.hg;*.hprof;*.pyc;*.pt" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="nipa_yolov3">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/nam/project/yolov3/yolov3" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
